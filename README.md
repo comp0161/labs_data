@@ -10,5 +10,5 @@ files can also be added and used instead.
   default configuration in Lab 2
 * `sines.sf2`: a simple alternative soundfont for use in Lab 3, in which
   all the non-percussion sounds are just sine waves (public domain data,
-  from the [Polyphone Soundfonts Collection](https://www.polyphone-soundfonts.com/documents/27-instrument-sets/571-sinewaves-everywhere-except-drumkit)
+  from the [Polyphone Soundfonts Collection](https://www.polyphone-soundfonts.com/documents/27-instrument-sets/571-sinewaves-everywhere-except-drumkit))
 
